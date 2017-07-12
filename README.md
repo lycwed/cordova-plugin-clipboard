@@ -7,7 +7,11 @@ Clipboard management plugin for Cordova/PhoneGap that supports iOS, Android, Win
 
 Install the plugin using the CLI, for instance with PhoneGap:
 
-	phonegap local plugin add danielsogl-cordova-plugin-clipboard
+	phonegap local plugin add lycwed-cordova-plugin-clipboard
+
+Install the plugin using the CLI, for instance with Cordova:
+
+	cordova plugin add lycwed-cordova-plugin-clipboard
 
 The plugin creates the object `cordova.plugins.clipboard` with the methods `copy(text, onSuccess, onError)` and `paste(onSuccess, onError)`.
 
