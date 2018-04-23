@@ -1,15 +1,10 @@
 {
   "name": "lycwed-cordova-plugin-clipboard",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Clipboard management plugin for Cordova/PhoneGap",
   "cordova": {
     "id": "lycwed-cordova-plugin-clipboard",
-    "platforms": [
-      "ios",
-      "android",
-      "wp8",
-      "windows"
-    ]
+    "platforms": ["ios", "android", "wp8", "windows"]
   },
   "repository": {
     "type": "git",
